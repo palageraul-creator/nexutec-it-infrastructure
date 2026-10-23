@@ -48,41 +48,41 @@ Objetivos del proyecto
 
 Documentación del proyecto
 
-Active Directory
+Active Directory:
 Administración centralizada de usuarios, grupos y recursos.
 PDF/Active_Directory.pdf
 
 
-LDAP y Samba
+LDAP y Samba:
 Integración de autenticación centralizada y recursos compartidos.
 PDF/LDAP_Samba.pdf
 
 
-Linux Server
+Linux Server:
 Administración y configuración de servidores Linux.
 PDF/Linux_Server.pdf
 
 
-Firewall e iptables
+Firewall e iptables:
 Implementación de medidas de seguridad y control de tráfico.
 PDF/Firewall_Iptables.pdf
 
 
-Webmin
+Webmin:
 Administración de sistemas mediante interfaz web.
 PDF/Webmin.pdf
 
 
-WordPress y Hosting Web
+WordPress y Hosting Web:
 Implementación de servicios web mediante LAMP y WordPress.
 PDF/Wordpress.pdf
 
 
-Copias de seguridad
+Copias de seguridad:
 Planificación e implementación de sistemas de backup.
 PDF/Backups.pdf
 
 
-Servicios Empresariales
+Servicios Empresariales:
 Simulación de prestación de servicios IT a una empresa cliente.
 PDF/Serveis_Empresarials.pdf
