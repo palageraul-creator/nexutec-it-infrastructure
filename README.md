@@ -1,4 +1,5 @@
 NexuTec - Proyecto Integral de Infraestructura IT
+
 Proyecto académico orientado a la simulación de una empresa proveedora de servicios tecnológicos.
 
 Durante el proyecto se diseñó e implementó una infraestructura informática completa basada en tecnologías Linux y Windows Server para dar servicio a una empresa cliente simulada.
